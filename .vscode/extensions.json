@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+
+    // AsciiDoc – Provides language support for AsciiDoc.
+    "asciidoctor.asciidoctor-vscode",
+
+    // EditorConfig – .editorconfig file support.
+    "editorconfig.editorconfig",
+
+    // Pylance – Python language server.
+    "ms-python.vscode-pylance",
+
+    // Python – Microsoft's official Python extension. Provides intellisense via 
+    // Pylance, plus linting, formatting, debugging, refactoring, and more.
+    "ms-python.python",
+
+  ]
+}
