@@ -1,6 +1,6 @@
-= Cheats
+= Snippets
 
-Cheat sheets for tools and commands that I use often… but quickly forget!
+Code snippets and cheats for tools, commands, languages and APIs that I use often… but quickly forget!
 
 ''''
-Copyright © 2020-2023 Kieran Potts — link:LICENSE.txt[CC BY-SA 4.0]
+Copyright © Kieran Potts — link:LICENSE.txt[CC BY-SA 4.0]
